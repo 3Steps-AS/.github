@@ -1,1 +1,3 @@
-# .github
+# 3Steps 
+
+Future of sports statistics
