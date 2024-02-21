@@ -1,6 +1,6 @@
 ## 3Steps
 
-The future of sport statistics
+3Steps revolutionizes data analysis in handball.
 
 <!--
 
